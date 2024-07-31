@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/asticode/go-astikit"
-	"github.com/asticode/go-astilectron"
+	"github.com/kfrico/go-astilectron"
 )
 
 // MessageOut represents a message going out

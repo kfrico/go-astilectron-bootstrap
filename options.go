@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/asticode/go-astikit"
-	"github.com/asticode/go-astilectron"
+	"github.com/kfrico/go-astilectron"
 )
 
 // Options represents options
